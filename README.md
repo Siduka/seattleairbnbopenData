@@ -1,2 +1,6 @@
 # seattleairbnbopenData
-Data documents for udacity seattle_airbnb_open_data
+Installation
+Project Motivation
+File Descriptions
+Results
+Licensing, Authors, and Acknowledgements
