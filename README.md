@@ -20,7 +20,14 @@ For this project, I was interestested in using Seatlle Airbnb Open Data to bette
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to showcase work related to the above questions.  This notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is one notebook available here to showcase work related to the above questions.  Datasets analytized in the notebook can be downloaded [here](https://www.kaggle.com/airbnb/seattle/data). 
+
+There are three datasets used in the notebook:
+1. Listings: full descriptions and average review score
+2. Reviews: unique id for each reviewer and detailed comments
+3. Listings: full descriptions and average review score
+
+Markdown cells were used in the notebook to assist in walking through the thought process for individual steps.  
 
 
 ## Results<a name="results"></a>
@@ -29,4 +36,4 @@ The main findings of the project can be found at the post available [here](to be
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data, raw data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data).  
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data).  
