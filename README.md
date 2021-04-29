@@ -25,8 +25,7 @@ There is one notebook available here to showcase work related to the above quest
 There are three datasets used in the notebook:
 1. Listings: full descriptions and average review score
 2. Reviews: unique id for each reviewer and detailed comments
-3. Listings: full descriptions and average review score
-
+3. Calendar: listing id and the price and availability for that day
 Markdown cells were used in the notebook to assist in walking through the thought process for individual steps.  
 
 
