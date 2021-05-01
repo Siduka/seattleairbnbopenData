@@ -31,7 +31,7 @@ Markdown cells were used in the notebook to assist in walking through the though
 
 ## Results<a name="results"></a>
 
-The main findings of the project can be found at the post available [here](to be input).
+The main findings of the project can be found at the post available [here](https://jennysiduka.medium.com/a-deep-look-at-seattle-airbnb-dataset-885454f1fd11).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
